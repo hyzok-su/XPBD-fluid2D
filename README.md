@@ -1,1 +1,1 @@
-![UUV Mapping](./pf_XPBF2.gif) 
+![UUV Mapping](./XPBF2.gif) 
