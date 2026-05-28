@@ -1,0 +1,6 @@
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\obj\Debug\XPBF.csproj.AssemblyReference.cache
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\obj\Debug\XPBF.csproj.CoreCompileInputs.cache
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\bin\Debug\XPBF.dll
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\bin\Debug\XPBF.pdb
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\obj\Debug\XPBF.dll
+C:\Users\yangw\Desktop\XPBF_PROJECT\XPBF\XPBF\obj\Debug\XPBF.pdb
