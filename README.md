@@ -3,7 +3,7 @@
 
 ## References
 
-This library is based on well-established particle-based fluid simulation methods:
+This library is based on the following papers:
 
 ### Position Based Dynamics (PBD)
 Müller, M., Heidelberger, B., Hennix, M., & Ratcliff, J. (2007)  
