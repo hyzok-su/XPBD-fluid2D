@@ -2,7 +2,8 @@
 ![UUV Mapping](./XPBF.gif) 
 
 # XPBF
-The algorithms in XPBF are explained here: https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/hyzok-su/XPBD-fluid2D/main/XPBF.pdf
+The algorithms in XPBF are explained here: 
+https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/hyzok-su/XPBD-fluid2D/main/XPBF.pdf
 
 ## References
 
