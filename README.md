@@ -3,7 +3,7 @@
 
 # XPBF
 The algorithms in XPBF are explained here: 
-https://hyzok-su.github.io/XPBD-fluid2D/XPBF.pdf
+[XPBF PDF](https://hyzok-su.github.io/XPBD-fluid2D/XPBF.pdf)
 
 ## References
 
