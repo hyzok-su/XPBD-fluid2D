@@ -1,5 +1,5 @@
 <img src="./XPBF2.gif"/>
-![UUV Mapping](./XPBF.gif) 
+<img src="./XPBF.gif"/>
 
 # XPBF
 The algorithms in XPBF are explained here: 
