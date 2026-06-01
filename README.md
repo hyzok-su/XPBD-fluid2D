@@ -1,9 +1,9 @@
-<img src="./XPBF2.gif" width="80%"/>
-<img src="./XPBF.gif" width="80%"/>
-
 # XPBF
 The algorithms in XPBF are explained here: 
 [XPBF PDF](https://hyzok-su.github.io/XPBD-fluid2D/XPBF.pdf)
+
+<img src="./XPBF2.gif" width="80%"/>
+<img src="./XPBF.gif" width="80%"/>
 
 ## References
 
