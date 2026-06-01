@@ -1,5 +1,5 @@
-<img src="./XPBF2.gif"/>
-<img src="./XPBF.gif"/>
+<img src="./XPBF2.gif" width="100%"/>
+<img src="./XPBF.gif" width="100%"/>
 
 # XPBF
 The algorithms in XPBF are explained here: 
