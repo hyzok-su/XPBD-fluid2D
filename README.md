@@ -1,5 +1,5 @@
 # XPBF
-The algorithms in XPBF are explained here: 
+The algorithms in XPBF are explained in my written notes: 
 [XPBF PDF](https://hyzok-su.github.io/XPBD-fluid2D/XPBF.pdf)
 
 <img src="./XPBF2.gif" width="80%"/>
